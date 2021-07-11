@@ -1,6 +1,6 @@
-# Filtrar array como Lista
+# Pandas, JSON y Colecciones
 
-Uso de listas en Python
+Uso de Pandas, JSON y Colecciones en Python
 
 ## Comenzando 🚀
 
